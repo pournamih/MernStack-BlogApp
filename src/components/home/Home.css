@@ -1,0 +1,14 @@
+.home{
+    text-align: center;
+    margin: 5px auto;
+}
+
+.home h1{
+    color:indigo;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: midnightblue;
+}
